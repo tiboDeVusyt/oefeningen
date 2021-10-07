@@ -10,22 +10,24 @@ namespace oef1
     {
         static void Main(string[] args)
         {
-            int nr1;
-            int nr;
-            int nr2;
-            Console.WriteLine("write a number");
-            nr1 = int.Parse(Console.ReadLine());
-            nr = nr1 + 15;
-            nr = nr * 2;
-            nr = nr - 4;
-            nr = nr / 2;
-            Console.WriteLine(nr);
 
-            nr2 = nr1 - nr;
+            int jaar;
+            int age;
 
-            Console.WriteLine("het verschil= " + -nr2);
+            Console.WriteLine("write your name");
+            string name = Console.ReadLine();
 
-            Console.ReadLine();                              
+
+
+            Console.WriteLine("schrijf je geboortejaar");
+            jaar = int.Parse(Console.ReadLine());
+
+            age = 2021 - jaar;
+            Console.WriteLine("your age is " + age);
+            Console.WriteLine("yuur name is " + name);
+
+
+
         }
     }
 }                  
