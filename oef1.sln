@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oef2", "oef2\oef2.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "program", "program\program.csproj", "{C731BEA7-A8E3-4D78-9344-F0A87AB16089}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "char types", "char types\char types.csproj", "{9D6BB19F-F697-4029-AB48-AF247C981F5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "strings", "strings\strings.csproj", "{6EBC805F-C480-4760-BBA2-D3CCE0C2D438}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{C731BEA7-A8E3-4D78-9344-F0A87AB16089}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C731BEA7-A8E3-4D78-9344-F0A87AB16089}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C731BEA7-A8E3-4D78-9344-F0A87AB16089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D6BB19F-F697-4029-AB48-AF247C981F5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D6BB19F-F697-4029-AB48-AF247C981F5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D6BB19F-F697-4029-AB48-AF247C981F5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D6BB19F-F697-4029-AB48-AF247C981F5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EBC805F-C480-4760-BBA2-D3CCE0C2D438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EBC805F-C480-4760-BBA2-D3CCE0C2D438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EBC805F-C480-4760-BBA2-D3CCE0C2D438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EBC805F-C480-4760-BBA2-D3CCE0C2D438}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
